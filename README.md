@@ -1,5 +1,4 @@
 # rbyrct-heritage
-<<<<<<< HEAD
 
 A small synthetic research probe for **adaptive ray-by-ray tomography in cultural heritage imaging**.
 
@@ -58,5 +57,3 @@ Outputs are written to `results/` and `figures/`.
 This repository tests the acquisition idea, not archaeological realism. Positive
 results should be followed by realistic attenuation/noise models, material-specific
 phantoms, scanner geometry, and eventually real heritage CT data.
-=======
->>>>>>> 533c5583d4d3c5d167c97a705b98e85ac8cdcc3e
