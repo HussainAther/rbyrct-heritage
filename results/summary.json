@@ -1,0 +1,21 @@
+{
+  "phantom_size": [
+    160,
+    160
+  ],
+  "dense_angles": 180,
+  "detector_bins": 160,
+  "budgets_pct": [
+    5,
+    10,
+    20,
+    40,
+    100
+  ],
+  "strategies": [
+    "uniform_sparse",
+    "random_sparse",
+    "adaptive",
+    "dense_reference"
+  ]
+}
